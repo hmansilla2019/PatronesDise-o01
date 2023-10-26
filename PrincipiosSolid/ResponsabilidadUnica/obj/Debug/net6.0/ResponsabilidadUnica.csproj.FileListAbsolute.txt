@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\bin\Debug\net6.0\ResponsabilidadUnica.exe
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\bin\Debug\net6.0\ResponsabilidadUnica.deps.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\bin\Debug\net6.0\ResponsabilidadUnica.runtimeconfig.json
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\bin\Debug\net6.0\ResponsabilidadUnica.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\bin\Debug\net6.0\ResponsabilidadUnica.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\refint\ResponsabilidadUnica.dll
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.pdb
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ResponsabilidadUnica.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\ResponsabilidadUnica\obj\Debug\net6.0\ref\ResponsabilidadUnica.dll

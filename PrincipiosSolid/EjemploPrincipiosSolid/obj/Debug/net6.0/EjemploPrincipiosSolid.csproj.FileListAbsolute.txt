@@ -1,0 +1,5 @@
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\EjemploPrincipiosSolid\obj\Debug\net6.0\EjemploPrincipiosSolid.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\EjemploPrincipiosSolid\obj\Debug\net6.0\EjemploPrincipiosSolid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\EjemploPrincipiosSolid\obj\Debug\net6.0\EjemploPrincipiosSolid.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\EjemploPrincipiosSolid\obj\Debug\net6.0\EjemploPrincipiosSolid.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\CoderHouse47870\AppEnCapas\PrincipiosSolid\EjemploPrincipiosSolid\obj\Debug\net6.0\EjemploPrincipiosSolid.csproj.CoreCompileInputs.cache

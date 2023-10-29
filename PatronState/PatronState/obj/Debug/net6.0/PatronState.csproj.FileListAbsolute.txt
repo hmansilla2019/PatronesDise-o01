@@ -1,0 +1,15 @@
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\bin\Debug\net6.0\PatronState.exe
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\bin\Debug\net6.0\PatronState.deps.json
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\bin\Debug\net6.0\PatronState.runtimeconfig.json
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\bin\Debug\net6.0\PatronState.dll
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\bin\Debug\net6.0\PatronState.pdb
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.csproj.AssemblyReference.cache
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.AssemblyInfoInputs.cache
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.AssemblyInfo.cs
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.csproj.CoreCompileInputs.cache
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.dll
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\refint\PatronState.dll
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.pdb
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\PatronState.genruntimeconfig.cache
+C:\Users\_Hugo\source\repos\PatronesDise-o01\PatronState\PatronState\obj\Debug\net6.0\ref\PatronState.dll
